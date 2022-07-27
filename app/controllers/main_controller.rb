@@ -1,7 +1,7 @@
 class MainController < ApplicationController
 
     def welcome
-        @name = 'Conny'
+        redirect_to products_path
     end
 
 end

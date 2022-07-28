@@ -1,19 +1,16 @@
 # == Schema Information
 #
-# Table name: products
+# Table name: product_categories
 #
 #  id          :integer          not null, primary key
-#  name        :string
-#  description :string
-#  visible     :boolean          default(TRUE)
+#  product_id  :integer          not null
+#  category_id :integer          not null
 #  created_at  :datetime         not null
 #  updated_at  :datetime         not null
-#  slug        :string
-#  image       :string
 #
 require "test_helper"
 
-class ProductTest < ActiveSupport::TestCase
+class ProductCategoryTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

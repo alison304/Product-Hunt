@@ -1,4 +1,4 @@
-# Proyecto Conny product hunt  :crocodile:
+# Conny product hunt  :crocodile:
 ---
 
 ## Integrante :artist:

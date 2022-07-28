@@ -1,11 +1,11 @@
 # Conny product hunt  :crocodile:
 ---
 
-## Integrante :artist:
+## Integrante : 👩‍⚕️ 
 
 Alison Janise Paico Quispe.
 - Github: [@alison304](https://github.com/alison304/)
-- (Linkedin)[https://www.linkedin.com/in/alison-janise-paico-quispe/]
+- Linkedin: (/alison-janise-paico-quispe/)[https://www.linkedin.com/in/alison-janise-paico-quispe/]
 ---
 
 ## Acerca de Conny product hunt :balloon:
@@ -18,7 +18,7 @@ Conny product hunt es un sitio web, el cual ayuda a pequeños empresarios a pode
 
 Para mayor referencia del proyecto, revise la siguiente [Documentación]()
 
-### Pasos para ejecutar localmente :bar_chart:
+### Pasos para ejecutar localmente : 💻
 
 Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 

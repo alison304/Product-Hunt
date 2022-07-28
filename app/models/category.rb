@@ -8,4 +8,7 @@
 #  updated_at :datetime         not null
 #
 class Category < ApplicationRecord
+    
+    has_many :product_categories
+
 end

@@ -6,10 +6,11 @@
   <div class="flex flex-wrap -m-3 mb-16">
     <%= render partial:"product", collection:@products %>
 
-    <!---->
   </div>
   <div class="text-center">
-      <a class="px-6 py-4 text-sm text-white font-semibold bg-red-400 hover:bg-red-300 rounded transition duration-200" href="#">Ver más productos</a>
+    <% if @products.next_page.present? %>
+      <a class="mb-4 px-6 py-4 text-sm text-white font-semibold bg-red-400 hover:bg-red-300 rounded transition duration-200" href="#">Ver más productos</a>
+    <% end %>
   </div>
 </div>
 </section>

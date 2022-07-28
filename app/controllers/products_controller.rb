@@ -2,7 +2,8 @@ class ProductsController < ApplicationController
   before_action :set_product, only: [:show, :edit, :update, :destroy]
 
   def index
-    @products = Product.where(visible:true).order('id DESC')
+    current_page = params[:page] ||= 1
+    @products = Product.where(visible:true).order('id DESC').paginate(page:current_page, per_page: 10)
   end
 
   def show

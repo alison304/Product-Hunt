@@ -5,7 +5,7 @@
 
 Alison Janise Paico Quispe.
 - Github: [@alison304](https://github.com/alison304/)
-- Linkedin: (/alison-janise-paico-quispe/)[https://www.linkedin.com/in/alison-janise-paico-quispe/]
+- Linkedin: [/alison-janise-paico-quispe/](https://www.linkedin.com/in/alison-janise-paico-quispe/)
 ---
 
 ## Acerca de Conny product hunt :balloon:

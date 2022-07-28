@@ -1,34 +1,36 @@
-# Proyecto Conny product hunt
+# Proyecto Conny product hunt  :crocodile:
 ---
 
-## Integrante:
+## Integrante :artist:
+
 Alison Janise Paico Quispe.
 - Github: [@alison304](https://github.com/alison304/)
 - (Linkedin)[https://www.linkedin.com/in/alison-janise-paico-quispe/]
 ---
 
-## Acerca de Conny product hunt:
+## Acerca de Conny product hunt :balloon:
 
 Conny product hunt es un sitio web, el cual ayuda a pequeños empresarios a poder vender sus productos en línea, su principal objetivo es brindar gran comodidad de búsqueda de productos al usuario, desarrollado en Rails 7.
 
 ---
 
-## Documentación
+## Documentación :card_index_dividers:
 
 Para mayor referencia del proyecto, revise la siguiente [Documentación]()
 
-### Pasos para ejecutar localmente
+### Pasos para ejecutar localmente :bar_chart:
 
 Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 
 1- Descargue el contenido de este repositorio de github con el comando git clone en VS code.
 
 2.- Para instalar las gemas, escribir en el terminal el comando bundle install.
+
 3- Finalmente en la linea de comandos colocar rails s.
 
 ---
 
-### Vistas
+### Vistas :art:
 
 -   *Página de inicio* : Esta página, se muestra la lista de productos destacados y disponibles.
 
@@ -38,7 +40,7 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 
 ---
 
-### Librerías usadas
+### Librerías usadas :building_construction:
 
 - Rails 7:  Librería de ruby on rails usada para construir interfaces de usuario.
 - Tailwind :
@@ -46,7 +48,7 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 
 ---
 
-### Deploy
+### Deploy :baggage_claim:
 
 El deploy del sitio fue realizado en Heroku, Para acceder , puede dar click [Aquí]()
 

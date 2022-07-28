@@ -1,24 +1,55 @@
-# README
+# Proyecto Conny product hunt
+---
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Integrante:
+Alison Janise Paico Quispe.
+- Github: [@alison304](https://github.com/alison304/)
+- (Linkedin)[https://www.linkedin.com/in/alison-janise-paico-quispe/]
+---
 
-Things you may want to cover:
+## Acerca de Conny product hunt:
 
-* Ruby version
+Conny product hunt es un sitio web, el cual ayuda a pequeños empresarios a poder vender sus productos en línea, su principal objetivo es brindar gran comodidad de búsqueda de productos al usuario, desarrollado en Rails 7.
 
-* System dependencies
+---
 
-* Configuration
+## Documentación
 
-* Database creation
+Para mayor referencia del proyecto, revise la siguiente [Documentación]()
 
-* Database initialization
+### Pasos para ejecutar localmente
 
-* How to run the test suite
+Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 
-* Services (job queues, cache servers, search engines, etc.)
+1- Descargue el contenido de este repositorio de github con el comando git clone en VS code.
 
-* Deployment instructions
+2.- Para instalar las gemas, escribir en el terminal el comando bundle install.
+3- Finalmente en la linea de comandos colocar rails s.
 
-* ...
+---
+
+### Vistas
+
+-   *Página de inicio* : Esta página, se muestra la lista de productos destacados y disponibles.
+
+-   *Detalle de los productos* : Se muestra el detalle del productos con un breve descripción.  
+
+-   *Detalle de la categoría* : Aquí se muestran los productos por categoria.    
+
+---
+
+### Librerías usadas
+
+- Rails 7:  Librería de ruby on rails usada para construir interfaces de usuario.
+- Tailwind :
+- Heroku: Es una plataforma como servicio (PaaS) que permite a los desarrolladores crear, ejecutar y operar aplicaciones completamente en la nube.
+
+---
+
+### Deploy
+
+El deploy del sitio fue realizado en Heroku, Para acceder , puede dar click [Aquí]()
+
+# [Website Conny Product Hunt]()
+
+---

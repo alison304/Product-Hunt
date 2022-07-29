@@ -1,4 +1,4 @@
-# Conny product hunt  :crocodile:
+# : :shopping: Conny product hunt  :crocodile:  
 ---
 
 ## Integrante : 👩‍⚕️ 
@@ -42,8 +42,26 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 
 ### Librerías usadas :building_construction:
 
-- Rails 7:  Librería de ruby on rails usada para construir interfaces de usuario.
-- Tailwind :
+- Rails 7: Es un framework de aplicaciones web de código abierto escrito en el lenguaje de programación Ruby, siguiendo el paradigma del patrón Modelo Vista Controlador.
+
+- Tailwind CSS: Es un framework de CSS de código abierto​ para el diseño de páginas web.
+
+- Sqlite3: Es un sistema de gestión de bases de datos relacional.
+
+- ActiveStorage: Es una herramienta que facilita la subida de archivos a almacenamientos en la nube.
+
+- Hotwired/turbo-rails: Turbo acelera las aplicaciones, los enlaces y los envíos de formularios sin necesidad de que cambie el código HTML generado por el servidor, ademàs, ayuda a realizar actualizaciones parciales de la página usando solo HTML y un conjunto de etiquetas de contenedor similares a CRUD.
+
+- Friendly_id: Permite reemplazar las direcciones URL conviertiendolas en cadenas en vez de indetificaciòn numérica.
+
+- Will_paginate: Es una colección de extensiones para la capa de la base de datos que habilita consultas paginadas y da una mejor visualizaciòn para marcos de trabajo que representan enlaces de paginación. 
+
+- Stimulus-rails: Es una framework de JavaScript simple y potente.
+
+- Annotate: Anota modelos Rails/ActiveRecord, rutas, accesorios y otros según el esquema de la base de datos.
+
+- Sprockets: Es una biblioteca de Ruby para compilar y servir activos web.
+
 - Heroku: Es una plataforma como servicio (PaaS) que permite a los desarrolladores crear, ejecutar y operar aplicaciones completamente en la nube.
 
 ---

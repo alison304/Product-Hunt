@@ -29,6 +29,6 @@ class Product < ApplicationRecord
 
     def category_default
         return self.categories.first.name if self.categories.any?
-        'Sin categoria'
+        'Sin categoría'
     end
 end

@@ -62,6 +62,8 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 
 - Sprockets: Es una biblioteca de Ruby para compilar y servir activos web.
 
+- Importmap: Permiten importar módulos de JavaScript usando nombres lógicos que se asignan a archivos versionados, desde el navegador, puede crear aplicaciones de JS utilizando bibliotecas de JS sin necesidad de transpilar o agrupar.
+
 - Heroku: Es una plataforma como servicio (PaaS) que permite a los desarrolladores crear, ejecutar y operar aplicaciones completamente en la nube.
 
 ---

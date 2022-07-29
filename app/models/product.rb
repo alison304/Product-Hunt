@@ -22,10 +22,10 @@ class Product < ApplicationRecord
 
     has_one_attached :image, :dependent => :destroy
     #uniqueness, length, presence, format con regex
-    has_many :product_categories
+    has_many :product_categories, :dependent => :destroy
     has_many :categories, through: :product_categories  #join
 
-    has_many :comments, -> { order('id DESC') }
+    has_many :comments, -> { order('id DESC') }, :dependent => :destroy
 
     accepts_nested_attributes_for :categories
 

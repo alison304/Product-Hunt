@@ -11,6 +11,7 @@ Rails.application.routes.draw do
 
   resources :products do
     get 'search', on: :collection  #genera la ruta products/search products#search
+    resources :comments, only: [:create]
   end
 
   root "main#welcome"

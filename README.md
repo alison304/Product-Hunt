@@ -1,4 +1,4 @@
-# : :shopping: Conny product hunt  :crocodile:  
+# :shopping: Conny product hunt  :crocodile:  
 ---
 
 ## Integrante : 👩‍⚕️ 

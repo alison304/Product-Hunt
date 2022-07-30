@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  devise_for :users
   
   # get 'products', to:'products#index'
   # get 'products/new', to:'products#new', as: 'new_products'
@@ -13,7 +14,7 @@ Rails.application.routes.draw do
     get 'search', on: :collection  #genera la ruta products/search products#search
     resources :comments, only: [:create]
   end
-
+  # root "home#index"
   root "main#welcome"
 end
 

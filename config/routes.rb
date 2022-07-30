@@ -9,6 +9,7 @@ Rails.application.routes.draw do
   # patch 'products/:id', to:'products#update'
 
   # post 'products', to: 'products#create'
+  
   resources :categories
   resources :products do
     get 'search', on: :collection  #genera la ruta products/search products#search

@@ -13,10 +13,13 @@
           </svg>
         </button>
       </div>
-      <ul class="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:w-auto lg:space-x-12">
-        <%= link_to 'Lista de productos', root_path, class:'text-sm font-medium' %>
-        <%= link_to 'Nuevo producto', new_product_path, class:'text-sm font-medium' %>
-      </ul>
+        <ul class="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:w-auto lg:space-x-12">
+          <%= link_to 'Lista de productos', root_path, class:'text-sm font-medium' %>
+          <% if user_signed_in? && current_user.admin==true %>
+            <%= link_to 'Nuevo producto', new_product_path, class:'text-sm font-medium' %>
+          <% end %>
+        </ul>
+
       <div class="hidden lg:flex">
 
         <%= form_tag search_products_path, method: :get do %>

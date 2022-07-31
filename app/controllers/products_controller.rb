@@ -16,6 +16,7 @@ class ProductsController < ApplicationController
     @product = Product.create product_params
 
     if @product.persisted?
+      UserMailer.with(product: @product).body.deliver_now
       redirect_to product_path(@product), notice:"Tú producto se creo exitosamente"
     else
       render :new, status: :unprocessable_entity

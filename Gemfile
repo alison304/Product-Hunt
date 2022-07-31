@@ -81,3 +81,5 @@ gem "tailwindcss-rails", "~> 2.0"
 gem "devise", "~> 4.8"
 
 gem "pundit", "~> 2.2"
+
+gem "cloudinary", "~> 1.23"

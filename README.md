@@ -26,7 +26,7 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 
 2.- Para instalar las gemas, escribir en el terminal el comando bundle install.
 
-3.- Instalar el Tailwindcss ./bin/rails tailwindcss:install
+3.- Instalar el Tailwindcss ./bin/rails con el comando tailwindcss:install
 
 4- Para correr la base de datos en la línea de comando colocar rails db:migrate.
 

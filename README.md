@@ -38,9 +38,11 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 
 Para el usuario en general
 
--   *Página de inicio* : Esta página, se muestra la lista de los productos disponibles.
+- *Página de registro* : Se muestra el formulario de registro por correo de la persona.
 
--   *Detalle de los productos* : Se muestra el detalle del productos con un breve descripción.  
+- *Página de inicio* : Se muestra la lista de los productos disponibles.
+
+- *Detalle de los productos* : Se muestra el detalle del productos con un breve descripción.  
 
 Para el usuario administrador
 

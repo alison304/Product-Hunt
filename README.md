@@ -8,7 +8,7 @@ Alison Janise Paico Quispe.
 - Linkedin: [/alison-janise-paico-quispe/](https://www.linkedin.com/in/alison-janise-paico-quispe/)
 ---
 
-## Acerca de Conny product hunt :crocodile:  
+## Acerca de Conny Product Hunt :crocodile:  
 
 Conny product hunt es un sitio web, el cual ayuda a pequeños empresarios a poder vender sus productos en línea, su principal objetivo es brindar gran comodidad de búsqueda de productos al usuario, desarrollado en Rails 7.
 

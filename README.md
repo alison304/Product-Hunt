@@ -28,17 +28,25 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 
 3.- Instalar el Tailwindcss ./bin/rails tailwindcss:install
 
-4- Finalmente en la linea de comandos colocar rails s.
+4- Para correr la base de datos en la línea de comando colocar rails db:migrate.
+
+4- Finalmente en la línea de comandos colocar rails s.
 
 ---
 
 ### Vistas :art:
 
--   *Página de inicio* : Esta página, se muestra la lista de productos destacados y disponibles.
+Para el usuario en general
+
+-   *Página de inicio* : Esta página, se muestra la lista de los productos disponibles.
 
 -   *Detalle de los productos* : Se muestra el detalle del productos con un breve descripción.  
 
--   *Detalle de la categoría* : Aquí se muestran los productos por categoria.    
+Para el usuario administrador
+
+- *Página de categorias(/categories)*: El administrador puede crear una nueva categoría, editarla y eliminarla. 
+
+- *Página nuevo producto(/new)* : El administrador puede crear un nuevo producto, editarlo y eliminarlo.
 
 ---
 
@@ -47,8 +55,6 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 - Rails 7: Es un framework de aplicaciones web de código abierto escrito en el lenguaje de programación Ruby, siguiendo el paradigma del patrón Modelo Vista Controlador.
 
 - Tailwind CSS: Es un framework de CSS de código abierto​ para el diseño de páginas web.
-
-- Sqlite3: Es un sistema de gestión de bases de datos relacional.
 
 - ActiveStorage: Es una herramienta que facilita la subida de archivos a almacenamientos en la nube.
 
@@ -68,7 +74,11 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 
 - Devise: Es una implementación de la gestión del login en nuestra aplicación.
 
--Pundit: Es una herramienta que te permite restringir ciertas partes de tu aplicación Rails a usuarios autorizados. 
+- Cloudinary: Es un gestor de imágenes y videos basada en la nube para aplicaciones web y móviles.
+
+- Postgresql: Es un sistema de gestión de bases de datos relacional orientado a objetos y de código abierto.
+
+- Action mailer: Permite enviar correos electrónicos desde la aplicación utilizando clases y vistas de correo.
 
 - Heroku: Es una plataforma como servicio (PaaS) que permite a los desarrolladores crear, ejecutar y operar aplicaciones completamente en la nube.
 
@@ -76,8 +86,8 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 
 ### Deploy :baggage_claim:
 
-El deploy del sitio fue realizado en Heroku, Para acceder , puede dar click [Aquí]()
+El deploy del sitio fue realizado en Heroku, Para acceder , puede dar click [Aquí](https://conny-product-hunt.herokuapp.com/)
 
-# [Website Conny Product Hunt]()
+# [Website Conny Product Hunt](https://conny-product-hunt.herokuapp.com/)
 
 ---

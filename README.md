@@ -16,7 +16,7 @@ Conny product hunt es un sitio web, el cual ayuda a pequeños empresarios a pode
 
 ## Documentación :card_index_dividers:
 
-Para mayor referencia del proyecto, revise la siguiente [Documentación Conny Product Hunt](https://drive.google.com/file/d/1X3PAHkK4WV79ikKF1m2oc7afw2xqCruP/view?usp=sharing)
+Para mayor referencia del proyecto, revise la siguiente [Documentación Conny Product Hunt](https://drive.google.com/file/d/1c2F-ljUsJcTNRodYueGnCeBNqqis_eZ0/view?usp=sharing)
 
 ### Pasos para ejecutar localmente : 💻
 

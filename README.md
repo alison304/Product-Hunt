@@ -16,7 +16,7 @@ Conny product hunt es un sitio web, el cual ayuda a pequeños empresarios a pode
 
 ## Documentación :card_index_dividers:
 
-Para mayor referencia del proyecto, revise la siguiente [Documentación Conny Product Hunt]()
+Para mayor referencia del proyecto, revise la siguiente [Documentación Conny Product Hunt](https://drive.google.com/file/d/1X3PAHkK4WV79ikKF1m2oc7afw2xqCruP/view?usp=sharing)
 
 ### Pasos para ejecutar localmente : 💻
 
@@ -40,17 +40,24 @@ Para el usuario en general
 
 - *Página de registro* : Se muestra el formulario de registro por correo de la persona.
 
-- *Página de inicio* : Se muestra la lista de los productos disponibles.
+- *Página de productos disponibles* : Se muestra la lista de los productos disponibles.
 
-- *Detalle de los productos* : Se muestra el detalle del productos con un breve descripción.  
+- *Página de detalle del producto* : Se muestra el detalle del productos con un breve descripción.  
 
 Para el usuario administrador
 
-- *Página de categorias(/categories)*: El administrador puede crear una nueva categoría, editarla y eliminarla. 
+- *Página de registro* : Se muestra el formulario de registro por correo de la persona.
 
-- *Página nuevo producto(/new)* : El administrador puede crear un nuevo producto, editarlo y eliminarlo.
+- *Página de productos disponibles* : Se muestra la lista de los productos disponibles.
 
-Nota: Cada que el administrador cree un nuevo producto se informará por correo del nuevo producto creado.
+- *Página nuevo producto* : El administrador puede crear un nuevo producto, editarlo y eliminarlo.
+
+Nota: Cada que el administrador crea un nuevo producto nos llegará un correo notificándonos la creación del producto.
+
+- *Página de detalle del producto* : Se muestra el detalle del productos con un breve descripción. 
+
+- *Página de categorias*: El administrador puede crear una nueva categoría, editarla y eliminarla. 
+
 
 ---
 
